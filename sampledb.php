@@ -91,6 +91,10 @@ else if (isset($_POST["update"])){
     echo "RECORD UPDATED successfully\n".$deleteexec;
 }
     }
+
+
+
+    
 //    CLOSE CONNECTION
 mysqli_close($conn);
 } catch (Exception $e) {
