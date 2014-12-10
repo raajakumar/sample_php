@@ -1,3 +1,5 @@
+/*simple example file*/
+
 <?php
 //include connection file
 include_once("ez_sql_core.php");
